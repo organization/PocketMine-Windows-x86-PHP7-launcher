@@ -14,6 +14,12 @@ If you seen this error, you must install right vcredist.
 
 (mean if you are installed x86, so you need x64 or if you are installed x64, so you need x86)
 
+Launcher version
+----------------------------------
+- PHP 7.0.1 official x86
+- PocketMine 1.6 (API 2.0.0) 
+- MC:PE 0.13.1 Support
+
 Plugins Descript
 ----------------------------------
 - DevTools - Plug-in extract to soruce and, package to phar(for PHP7)
@@ -34,7 +40,6 @@ PHAR Patched
 - Fixed "error: assert($this->namedtag->Item instanceof CompoundTag)" problem
 - Fixed Async CompressedPacket initialize (__construct array, serialize -> unserialize applied)
 - I compared php7 branch and mcpe0.12 branch and fixed conflict problem
-
 
 [Special Thanks] if(Team); Peoples (https://github.com/if-Team)
 
