@@ -10,8 +10,9 @@ I added some plug-ins and some patch for PocketMine-MP.phar
 
 If you seen this error, you must install right vcredist.
 ----------------------------------
-(mean if you are installed x86, so you need x64 or if you are installed x64, so you need x86)
 '/usr/bin/php/php.exe: error while loading shared libraries: VCRUNTIME140.dll: cannot open shared object file: No such file or dire ctory bin\php\php.exe: Exit 127'
+
+(mean if you are installed x86, so you need x64 or if you are installed x64, so you need x86)
 
 Plugins Descript
 ----------------------------------
@@ -33,3 +34,8 @@ PHAR Patched
 - Fixed "error: assert($this->namedtag->Item instanceof CompoundTag)" problem
 - Fixed Async CompressedPacket initialize (__construct array, serialize -> unserialize applied)
 - I compared php7 branch and mcpe0.12 branch and fixed conflict problem
+
+
+[Special Thanks] if(Team); Peoples (https://github.com/if-Team)
+
+[추신] 한국어 버전이 필요하시면 MCPE KOREA를 참조해주세요 (っ´▽`)っ
